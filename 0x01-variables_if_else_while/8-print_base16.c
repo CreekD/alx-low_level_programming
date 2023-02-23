@@ -16,6 +16,6 @@ int main(void)
 	for (i = 'a'; i < 'g'; i++)
 		putchar(i);
 
-	putchat('\n');
+	putchar('\n');
 	return (0);
 }
